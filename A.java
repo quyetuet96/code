@@ -8,6 +8,7 @@ public class A {
       // them tinh nang SAKURA1 tiep
     if (x == 1) {
       System.out.println("hello world");
+      System.out.println("hello world tiep");
     }
   }
 }
