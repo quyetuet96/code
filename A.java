@@ -6,5 +6,8 @@ public class A {
       int z = 5;
       // them tinh nang SAKURA1
       // them tinh nang SAKURA1 tiep
+    if (x == 1) {
+      System.out.println("hello world");
+    }
   }
 }
