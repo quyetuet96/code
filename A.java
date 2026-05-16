@@ -9,6 +9,7 @@ public class A {
     if (x == 1) {
       System.out.println("hello world");
       System.out.println("hello world tiep");
+      System.out.println("hello world tiep nua");
     }
   }
 }
