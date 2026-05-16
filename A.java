@@ -15,6 +15,9 @@ public class A {
       System.out.println("SAKURA8 cung sua");
       System.out.println("SAKURA8 cung sua");
       System.out.println("SAKURA8 cung sua");
+      System.out.println("SAKURA8 cung sua");
+      System.out.println("SAKURA8 cung sua");
+      System.out.println("SAKURA8 cung sua");
     }
   }
 }
